@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tris Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tris_Game_jar</output-path>
+    <root id="archive" name="Tris Game.jar">
+      <element id="module-output" name="Tris Game" />
+    </root>
+  </artifact>
+</component>
